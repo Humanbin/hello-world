@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Hello GitHub
+Hello GitHub, its gonna be quite a ride!
